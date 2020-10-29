@@ -1,2 +1,2 @@
 # limejuice
-Limejuice is cluster infrastructure manager
+Limejuice is a cluster infrastructure manager
